@@ -1,0 +1,9 @@
+#rank {
+  background-color: #354242b4;
+}
+
+#top1 {
+  border: 2px solid var(--light);
+  box-shadow: var(--shadow);
+  margin-bottom: 8px;
+}

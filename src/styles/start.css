@@ -1,0 +1,19 @@
+#appBar {
+  background-color: #40c8cd0e;
+  backdrop-filter: blur(5px);
+  padding: 10px;
+  border-radius: 0 0 8px 8px;
+}
+
+#choiceBar {
+  border: 3px solid var(--light); 
+}
+
+#vs {
+  font-size: 95px;
+}
+
+#btnRefresh {
+  border: 2px solid #2b4546;
+  color: #CBE4DE;
+}

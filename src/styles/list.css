@@ -1,0 +1,15 @@
+#games {
+  transition: ease-in-out;
+  min-height: fit-content;
+}
+
+#games:hover {
+  border: 3px solid var(--light) !important;
+  padding: 5px;
+  box-shadow: var(--shadow)
+}
+
+#title {
+  bottom: 0;
+  backdrop-filter: blur(5px);
+}

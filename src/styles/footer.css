@@ -1,0 +1,5 @@
+#sosmed:hover {
+  transform: scale(1.2);
+  color: var(--light);
+  text-shadow: var(--shadow);
+}
